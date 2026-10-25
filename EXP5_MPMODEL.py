@@ -1,5 +1,6 @@
 # MP Neuron Implementation 1
 
+# AND Gate
 w1 = 1
 w2 = 1
 theta = 2
@@ -15,7 +16,7 @@ for x1, x2 in inputs:
     output = 0
   print(x1, x2, '->', output)
 
-
+# OR Gate 
 w1 = 1
 w2 = 1
 theta = 1
